@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "midi board")(type "KiCad")(uri "C:/Users/Shiloh/Documents/KiCad/Projects/midi board/footprints/midi board.pretty")(options "")(descr ""))
+  (lib (name "midi board")(type "KiCad")(uri "${KIPRJMOD}/footprints/midi board.pretty")(options "")(descr ""))
 )

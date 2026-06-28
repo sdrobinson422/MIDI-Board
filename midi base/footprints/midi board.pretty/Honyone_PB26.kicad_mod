@@ -163,7 +163,7 @@
 			)
 		)
 	)
-	(model "C:/Users/Shiloh/Documents/KiCad/Projects/midi board/footprints/midi board.pretty/Honyone_PB26.step"
+	(model "${KIPRJMOD}/footprints/midi board.pretty/Honyone_PB26.step"
 		(offset
 			(xyz 0 0 0)
 		)
